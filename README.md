@@ -17,11 +17,11 @@ This repository explores innovative approaches to state management in Kafka Stre
 
 This project accompanies the conference talk [**"Kafka - No Rocks, Please: Using Kafka Streams with Alternative State Stores"**](https://current.confluent.io/2024-sessions/kafka---no-rocks-please-using-kafka-streams-with-alternative-state-stores) presented at Confluent Current 2024.
 
-The talk explores why and when you might want to use alternative state stores instead of RocksDB, with live demonstrations and best practices for production deployments.
+The talk explores why, when and how you might want to use alternative state stores instead of RocksDB.
 
 ## Sister Repository
 
-See also [@rkolesnev/kstreams-neo4j-statestore](https://github.com/rkolesnev/kstreams-neo4j-statestore) - another alternative state store implementation showcasing Neo4j for graph-based state management within Kafka Streams.
+See also [@rkolesnev/kstreams-neo4j-statestore](https://github.com/rkolesnev/kstreams-neo4j-statestore) - another alternative state store implementation - done in a different way - showcasing Neo4j for graph-based state management within Kafka Streams.
 
 ## Use Case: Taxi Hauling Lookup
 
