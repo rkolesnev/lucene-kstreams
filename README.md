@@ -15,7 +15,7 @@ This repository explores innovative approaches to state management in Kafka Stre
 
 ## Conference Talk
 
-This project accompanies the conference talk **"Kafka - No Rocks, Please: Using Kafka Streams with Alternative State Stores"** presented at [Confluent Current 2024](https://current.confluent.io/).
+This project accompanies the conference talk [**"Kafka - No Rocks, Please: Using Kafka Streams with Alternative State Stores"**](https://current.confluent.io/2024-sessions/kafka---no-rocks-please-using-kafka-streams-with-alternative-state-stores) presented at Confluent Current 2024.
 
 The talk explores why and when you might want to use alternative state stores instead of RocksDB, with live demonstrations and best practices for production deployments.
 
@@ -52,3 +52,7 @@ This implementation demonstrates a practical use case: efficient geospatial and 
 ### Running the Demo
 
 See the [demo/README.md](./demo/README.md) for detailed instructions on building and running the taxi hauling lookup application.
+
+### Attributions 
+
+Originally developed with Niamh Thornbury and Ian Feeney and presented at Confluent Current 2022 talk [**"Real-Time Processing of Spatial Data Using Kafka Streams"**](https://www.confluent.io/events/current/2022/real-time-processing-of-spatial-data-using-kafka-streams/).
